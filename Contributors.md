@@ -30,6 +30,7 @@
 - [Frank Minichiello](https://github.com/fmini)
 - [Mir Abrar Ahmed]
 - [Hridoy Das](https://github.com/Hridoy-Das9)
+- [seankrienke](https://github.com/seankrienke)
 - [Subham Kumar Pandey](https://github.com/SubhamKumarPandey)
 - [Yubraj Karki] (https://github.com/Yubraj-Karki)
 - [Rachana Singh](https://github.com/rachana-singh27)
